@@ -10,3 +10,6 @@ data/raw_data.csv - This is the dataset used for this analysis. It was obtained 
 
 ### Results:
 My analysis found that students in Hawaii are being severely affected by the loss in income due to the struggling tourism sector. In Alaska, students are dealing with a lack of quiet study space. Finally, Puerto Rico, Mississippi and New Mexico are the states where community hotspots and school issued laptops could have the most impact. 
+
+### Blog Post:
+https://www.cathyr.com/blog/internet-connectivity/
