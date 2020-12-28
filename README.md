@@ -1,6 +1,6 @@
 # README
 
-### Libraries Used
+### Libraries Used:
 Pandas
 MatPlotLib
 
