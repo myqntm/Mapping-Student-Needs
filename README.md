@@ -1,5 +1,8 @@
 # README
 
+Motivation: I wanted to work on a dataset that is more relevant to the work I do in the social sector. This dataset around children's needs in the new remote learning environment was not only interesting but it also coincided with the stories shared among young parents.
+
+
 ### Libraries Used:
 Pandas
 MatPlotLib
@@ -13,3 +16,7 @@ My analysis found that students in Hawaii are being severely affected by the los
 
 ### Blog Post:
 https://www.cathyr.com/blog/internet-connectivity/
+
+### Acknowledgement:
+Dataset: [Data.World](https://data.world/liz-friedman/school-district-data-for-mapping-student-needs-during-covid)
+References: Udacity
